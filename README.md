@@ -1,4 +1,4 @@
-# <img src="Images/CuchaoLogo.jpg" align="left" width="200" height="100" />Cuchao   <img src="Images/CMDLogo.png" align="right" width="100" height="100"/>
+# <img src="Images/CuchaoLogo.jpg" align="left" width="200" height="100" />Cuchao   <img src="Images/CDMLogo.png" align="right" width="100" height="100"/>
 Carrito a cotrol remoto
  
 ## Descripción
