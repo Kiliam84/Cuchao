@@ -23,7 +23,7 @@ La fuente de energía del Cuchao es una batería alcalina de 9V conectada a al d
 <img src="Images/Cuchao%20Diagrama%20de%20circuito.png" align="left"/>
 Hecho en KiCad
 
-## Verciones
+## Versiones
 - V1: En la primera versión de este proyecto se implementó un chasis genérico para carro robótico con una modificación para permitir la dirección de las ruedas delanteras mediante el servomotor, pero al estar este chasis diseñado para un vehículo de cuatro servomotores, no se tenia el espacio suficiente para que las ruedas giren.
 <img src="Images/ChasisV1.jpg" align="center" width="225" height="150"/>
 
