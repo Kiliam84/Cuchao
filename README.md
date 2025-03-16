@@ -1,5 +1,5 @@
 # <img src="Images/CuchaoLogo.jpg" align="left" width="200" height="100" />Cuchao   <img src="Images/CDMLogo.png" align="right" width="100" height="100"/>
-Carrito a cotrol remoto
+Carrito a control remoto
  
 ## Descripción
 Cuchao es un carro controlado remotamente mediante una aplicación para teléfono que envía instrucciones vía bluetooth. Este proyecto incluyo el diseño y construcción de las distintas partes que componen un vehículo con la apariencia del Rayo Mcqueen cuyo control remoto le permite avanzar, retroceder y cambiar su dirección dependiendo de las instrucciones que reciba de la aplicación de teléfono
